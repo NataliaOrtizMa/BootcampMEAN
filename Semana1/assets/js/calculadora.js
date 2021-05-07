@@ -267,8 +267,8 @@ const btnCEf = () => {
             num1Temp = num1Temp.substring(0, num1Temp.length - 1);
             casilla.innerHTML = num1Temp;
         } else {
-            num
-            casilla.innerHTML = num2Temp;2Temp = num2Temp.substring(0, num2Temp.length - 1);
+            num2Temp = num2Temp.substring(0, num2Temp.length - 1);
+            casilla.innerHTML = num2Temp;
         }
         
     }
